@@ -7,6 +7,7 @@
 #include <QSplitter>
 #include <QFont>
 #include <QApplication>
+#include <QStatusBar>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)

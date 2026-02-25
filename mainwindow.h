@@ -13,6 +13,7 @@
 #include <QSpinBox>
 #include <QDoubleSpinBox>
 #include <QMessageBox>
+#include <QStatusBar>
 
 #include "linkedlist.h"
 #include "bst.h"
