@@ -24,5 +24,4 @@ HEADERS += \
     sortingalgorithms.h \
     undostack.h
 
-FORMS += \
-    mainwindow.ui
+
